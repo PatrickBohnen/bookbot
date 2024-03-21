@@ -1,2 +1,2 @@
 # bookbot
-basic learning project
+basic learning project and stuff
